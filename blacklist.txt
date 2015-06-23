@@ -1,0 +1,33 @@
+###############################################################
+#Emdiviウィルス対応(2015/6/16)
+#リストは適宜確認して更新してください
+#こちらのページの情報を参考にしました http://d.hatena.ne.jp/Kango/20141107/1415370890
+#こちらのページの情報を参考にしました http://pastebin.com/j4a1xxtR
+###############################################################
+#www.kaerunote.com (125.206.115.72)
+#www.d1010318.hosting-sv.jp (125.206.115.72)
+#www.muku-mori.com (125.206.115.79)
+#www.arkhe-will.jp/blog/tokuhan/book/index.php(125.206.116.95)
+#www.img.gr.jp/100.html(???)
+#www.www.nishina.gr.jp/info/yougo/book/index.php(???)
+#www.sakura-farm.com/blog/index.php(210.224.177.242)
+#www.sekisan.biz/wp-content/plugins/akismet/state/index.php(125,206.115.79)
+#www.a-masato.jp/html/mainland/index.php(203.189.109.233)
+#www.sofurin.or.jp/htm/copyright/folder/index.php(???)
+#www.sofurin.or.jp/htm/copyright/folder/sc_flash/index.php(???)
+#www.toko-ton.com/koushi/detail/index.php(???)
+#www.toko-ton.com/koushi/detail/sc_flash/index.php(???)
+#www.turitengu.jp/book/index.php(125.206.115.72)
+#www.motoavanti.com/shinyo/backup/look/index.php(125.206.115.72)
+#www.skyworld.co.jp/tenpo/look/index.php(125.206.115.79)
+#www.iandeye.co.jp/blog/2014/index.php(125.206.115.72)
+#www.katou-ai.com/images/fuck/index.php(219.94.203.158)
+#(色々なドメインで125.206.115.72と125.206.115.79に通信しています）
+###############################################################
+125.206.115.72
+125.206.115.79
+125.206.116.95
+210.224.177.242
+203.189.109.233
+219.94.203.158
+###############################################################
