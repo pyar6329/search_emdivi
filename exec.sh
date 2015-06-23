@@ -4,6 +4,7 @@ readonly BLACK_LIST=./blacklist.txt
 
 function search_emdivi() {
   local _filename="$1"
+  local _netstat="$(netstat -an)"
 
   while read line ; do
 
@@ -16,7 +17,7 @@ function search_emdivi() {
       continue
     fi
 
-    netstat -an | grep "${result}"
+    echo "${_netstat}" | grep "${result}"
 
   done < "${_filename}"
 
