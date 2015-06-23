@@ -9,10 +9,10 @@ function search_emdivi() {
   while read line ; do
 
     #skip blank line
-    local result="$(echo "${line}" | tr -d "\r" | tr -d "\n")"
+    local result=$(echo "${line}" | tr -d "\r" | tr -d "\n")
 
     #skip comments
-    if [ "$(echo "${result}" | egrep "^#" | wc -l)" -gt 0 ] || [ "${result}" == "" ]
+    if [ $(echo "${result}" | egrep "^#" | wc -l) -gt 0 ] || [ "${result}" == "" ]
     then
       continue
     fi
